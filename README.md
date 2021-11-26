@@ -1,0 +1,2 @@
+# mynewportfolio
+for learning purpose
