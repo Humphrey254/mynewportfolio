@@ -1,2 +1,0 @@
-# mynewportfolio
-for learning purpose
